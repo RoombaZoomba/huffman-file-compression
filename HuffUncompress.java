@@ -1,20 +1,3 @@
-/*  Student information for assignment:
- *
- *  On <OUR> honor, <Mohammad Hakim> and <Nathan Cheng>, this programming assignment is <OUR>
- *  own work and <WE> have not provided this code to any other student.
- *
- *  Number of slip days used:1
- *
- *  Student 1 (Student whose turnin account is being used)
- *  UTEID:nyc278
- *  email address:nathanchengus@gmail.com
- *  Grader name:David K
- *
- *  Student 2
- *  UTEID: msh3573
- *  email address: mohammad_hakim@utexas.edu
- *
- */
 import java.io.IOException;
 import java.util.Arrays;
 
